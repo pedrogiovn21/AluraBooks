@@ -1,2 +1,2 @@
 # AluraBooks
-Meu projeto do AluraBooks com responsividade para diversos layouts 
+Meu projeto do AluraBooks responsivo para diversos layouts 
